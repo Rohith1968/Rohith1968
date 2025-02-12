@@ -1,97 +1,98 @@
-<div align='center'>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=92A0AD&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Kantipudi+Sai+Sri+Rohith;Undergraduate+ComputerScience;Machine+Learning+Enthusiast;Algorithms+Lover;Optimized+Development" alt="Typing SVG" />
-    </a>
-</div>
-<br>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/rohith-kantipudi/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-</div>
-<div id="views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=KSS-Rohith&style=flat-square&color=blue" alt="Views" />
-</div>
-<br>
-<div id="ti1" align="center">
-    <h2 style='color: white;'>My GitHub Stats</h2>
-</div>
-<br>
-<div id="streaks" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&hide=jupyter+notebook,html,css&langs_count=6&layout=compact"/>
-    <br>
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
-</div>
-<br>
-<div id="ti1" align="center">
-    <h2 style='color: white;'>My Technology Stack</h2>
-</div>
-<div id="Tab" align="center">
-    <table style="width:100%;">
-        <tr>
-            <td>
-                <h3 style='color: white;'>Programming Languages</h3>
-                <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-                <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-                <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 style='color: white;'>Markup/down Languages</h3>
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-                <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-                <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 style='color: white;'>Databases</h3>
-                <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-                <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-                <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 style='color: white;'>Frameworks</h3>
-                <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-                <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-                <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-                <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 style='color: white;'>Machine Learning</h3>
-                <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-                <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-                <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-                <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-                <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 style='color: white;'>Microcontrollers</h3>
-                <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-                <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-                <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3 style='color: white;'>Networking</h3>
-                <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-                <img src="https://img.shields.io/badge/Network%20Security-EE4C2C?style=for-the-badge&logo=security&logoColor=white" />
-                <img src="https://img.shields.io/badge/TCP%2FIP-0078D7?style=for-the-badge&logo=internetprotocol&logoColor=white" />
-            </td>
-        </tr>
-    </table>
-</div>
+# Hello 👋 I'm Rohith Kantipudi
+
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Welcome Banner" width="100%">
+</p>
+
+## 👨🏻‍💻 About Me:
+
+- 🙋‍♂️ All about me is at **[My Website]([https:///](https://rohithkantipudi.netlify.app/))***
+- 🔭 Currently working on `Something Intresting`.
+- 🌱 Learning **Machine Learning, Data Science, and Cloud Computing**.
+- 👯 Looking to collaborate on **AI, ML, and backend development projects**.
+- 🤔 Seeking opportunities in **AI, data engineering, and cloud solutions**.
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 👨‍💻 Life Hack: Continuously learning new tech 🔥 and applying it to real-world problems 🎉.
+- ⚡ Fun fact: I love exploring AI models and automating workflows.
+
+---
+
+## 🏆 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohith1968&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+---
+
+## 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith1968&show_icons=true&theme=dark" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith1968&theme=dark" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith1968&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rohith1968&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
+</p>
+
+---
+
+## ☕ Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+---
+
+## 🛠️ Technologies and Tools I Use
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Microcontrollers**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESPRESSIF](https://img.shields.io/badge/ESPRESSIF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### **Networking**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0033A0?style=for-the-badge&logo=internet&logoColor=white)
+
+---
+
+## ❤️ Let's Connect:
+<p align="center">
+  <a href="https://github.com/Rohith1968">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
