@@ -9,12 +9,19 @@
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://rohithkantipudi.netlify.app/)**
+  
 - 🔭 Currently working on `Something Interesting`.
+  
 - 🌱 Learning **Machine Learning, Data Science, and Cloud Computing**.
+  
 - 👯 Looking to collaborate on **AI, ML, and backend development projects**.
+  
 - 🤔 Seeking opportunities in **AI, data engineering, and cloud solutions**.
+  
 - 💬 Ask me about anything, Except Maths 😅
+  
 - 👨‍💻 Life Hack: Continuously learning new tech 🔥 and applying it to real-world problems 🎉.
+  
 - ⚡ Fun fact: I love exploring AI models and automating workflows.
 
 
@@ -83,6 +90,6 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rohith1968&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith1968&" alt="Rohith's Streak Stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
 </div>
