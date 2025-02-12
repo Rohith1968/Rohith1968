@@ -1,7 +1,7 @@
 # Hello 👋 I'm Rohith Kantipudi
 
 <p align="center">
-  <img src="https://your-banner-url.com/banner.jpg" alt="Welcome Banner" width="100%">
+  <img src="./banner.jpg" alt="Welcome Banner" width="100%">
 </p>
 
 ## 👨🏻‍💻 About Me:
