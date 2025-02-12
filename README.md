@@ -5,7 +5,7 @@
 </p>
 
 ## 👨🏻‍💻 About Me:
-
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 🙋‍♂️ All about me is at **[My Website](https://rohithkantipudi.netlify.app/)**
 - 🔭 Currently working on `Something Interesting`.
 - 🌱 Learning **Machine Learning, Data Science, and Cloud Computing**.
