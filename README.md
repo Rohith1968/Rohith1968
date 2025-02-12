@@ -25,7 +25,9 @@
 
 
 ---
-
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=92A0AD&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Kantipudi Sai+Sri Rohith+;Undergraduate+Computer Science;Machine+Learning+Enthusiast;Algorithms+Lover;Optimized+Development" alt="Typing SVG" /></a>
+</div>
 ## 👀 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rohith1968&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
@@ -33,12 +35,6 @@
 
 ---
 
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
 
 ---
 
